@@ -1,0 +1,1703 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Sit",
+				"SiteMisconfigured\t(SiteMisconfigured.php)"
+			],
+			[
+				"last",
+				"lastResponse"
+			],
+			[
+				"subs",
+				"subscription"
+			],
+			[
+				"wooord",
+				"wooCommerceOrders"
+			],
+			[
+				"your-sub",
+				"your-subdomain"
+			],
+			[
+				"ssl_cer",
+				"ssl_certificate_key"
+			],
+			[
+				"your-subdomain",
+				"your-subdomain>.thingamajiggen.com"
+			],
+			[
+				"your",
+				"your-subdomain>.thingamajiggen.com"
+			],
+			[
+				"days",
+				"daysInterval"
+			],
+			[
+				"woocom",
+				"woocommerce"
+			],
+			[
+				"woo",
+				"woocommerce"
+			],
+			[
+				"woocomm",
+				"woocommerce\t(SendOrderToWickedReports.php)"
+			],
+			[
+				"sub",
+				"subscription"
+			],
+			[
+				"subsc",
+				"subscription"
+			],
+			[
+				"WooCom",
+				"WooCommerceSubscription\t(WooCommerceSubscription.php)"
+			],
+			[
+				"_",
+				"_c\tPHP Constructor"
+			],
+			[
+				"wooc",
+				"wooCommmerce"
+			],
+			[
+				"conn",
+				"connection"
+			],
+			[
+				"vali",
+				"validate"
+			],
+			[
+				"val",
+				"validator"
+			],
+			[
+				"line",
+				"line_items"
+			],
+			[
+				"mess",
+				"message\t(WooCommerceAccess.php)"
+			],
+			[
+				"ord",
+				"orders"
+			],
+			[
+				"addOrde",
+				"addOrderItems"
+			],
+			[
+				"Comman",
+				"Commanage"
+			],
+			[
+				"Comm",
+				"Commanage"
+			],
+			[
+				"Inter",
+				"InteractsWithSockets\t(TeamMutedPost.php)"
+			],
+			[
+				"con",
+				"connected"
+			],
+			[
+				"posti",
+				"post_id"
+			],
+			[
+				"userid",
+				"user_id"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"sender_",
+				"sender_name"
+			],
+			[
+				"commid",
+				"commentId"
+			],
+			[
+				"cl",
+				"cl\tJS Console Log"
+			],
+			[
+				"filt",
+				"filteredComments"
+			],
+			[
+				"clai",
+				"claimed"
+			],
+			[
+				"claimu",
+				"claimedUserId"
+			],
+			[
+				"Filte",
+				"filterComments"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"obje",
+				"objectId"
+			],
+			[
+				"pai",
+				"pageId"
+			],
+			[
+				"sett",
+				"settings"
+			],
+			[
+				"set",
+				"settings"
+			],
+			[
+				"up",
+				"updated\t(CommanageController.php)"
+			],
+			[
+				"moni",
+				"monitoredPages"
+			],
+			[
+				"monito",
+				"monitored\t(CommanageController.php)"
+			],
+			[
+				"ingopa",
+				"ignorePageComments"
+			],
+			[
+				"current",
+				"currentTeam"
+			],
+			[
+				"with",
+				"without"
+			],
+			[
+				"monitor",
+				"monitorPage"
+			],
+			[
+				"Comma",
+				"CommanageSettings"
+			],
+			[
+				"Change",
+				"ChangedSettings\t(ChangedSettings.php)"
+			],
+			[
+				"commana",
+				"commanageSettings"
+			],
+			[
+				"commse",
+				"commanageSettings"
+			],
+			[
+				"Commana",
+				"CommanageController\t(CommanageController.php)"
+			],
+			[
+				"reply",
+				"replyWindow"
+			],
+			[
+				"rpl",
+				"replyWindow"
+			],
+			[
+				"Wick",
+				"WickedlyWoo\t(WooCommerceAccess.php)"
+			],
+			[
+				"compon",
+				"components"
+			],
+			[
+				"entr",
+				"entries"
+			],
+			[
+				"fac",
+				"facehook\t(routes.php)"
+			],
+			[
+				"obst",
+				"object_story_id"
+			],
+			[
+				"cre",
+				"creative"
+			],
+			[
+				"adCr",
+				"adCreatives"
+			],
+			[
+				"sta",
+				"status"
+			],
+			[
+				"tex",
+				"text-center"
+			],
+			[
+				"Sho",
+				"ShouldQueue\t(SendOrderToWickedReports.php)"
+			],
+			[
+				"we",
+				"webhooks_pulse"
+			],
+			[
+				"Conn",
+				"ConnectionIsBeingDeleted\t(WickedlyWooController.php)"
+			],
+			[
+				"Connection",
+				"ConnectionWasDeleted\t(RemoveWebhooks.php)"
+			],
+			[
+				"top",
+				"topic"
+			],
+			[
+				"deliv",
+				"delivery_url"
+			],
+			[
+				"webho",
+				"webhooks"
+			],
+			[
+				"dev",
+				"delivery_url"
+			],
+			[
+				"web",
+				"webhook"
+			],
+			[
+				"sit",
+				"sites"
+			],
+			[
+				"st",
+				"status"
+			],
+			[
+				"refund",
+				"refunded"
+			],
+			[
+				"healt",
+				"health-check\t(api.php)"
+			],
+			[
+				"end",
+				"endpoint"
+			],
+			[
+				"Subs",
+				"SubscriptionUpdated"
+			],
+			[
+				"curte",
+				"currentTeam"
+			],
+			[
+				"Sub",
+				"SubscriptionUpdated"
+			],
+			[
+				"Woo",
+				"WooCommerceWelcome\t(WooCommerceWelcome.php)"
+			],
+			[
+				"met",
+				"metadata"
+			],
+			[
+				"country",
+				"country_code"
+			],
+			[
+				"first",
+				"first_name\t(SendOrderToWickedReports.php)"
+			],
+			[
+				"lin",
+				"lineItem"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"WooC",
+				"WooCommerce"
+			],
+			[
+				"WooComme",
+				"WooCommerceOrder"
+			],
+			[
+				"WooComm",
+				"WooCommerceOrder"
+			],
+			[
+				"Wo",
+				"WooCommerceOrder"
+			],
+			[
+				"Wooc",
+				"WooCommerceStripeWebhookController\t(WooCommerceStripeWebhookController.php)"
+			],
+			[
+				"face",
+				"facealytics\t(FacealyticsController.php)"
+			],
+			[
+				"wocor",
+				"wooCommerceOrders"
+			],
+			[
+				"log",
+				"logger"
+			],
+			[
+				"refun",
+				"refunded"
+			],
+			[
+				"x-wp",
+				"X-WP-TotalPages"
+			],
+			[
+				"toDat",
+				"toDateTimeString\t(BulkImportPastOrders.php)"
+			],
+			[
+				"jso",
+				"json_decode"
+			],
+			[
+				"wooC",
+				"wooCommmerce"
+			],
+			[
+				"pa",
+				"paypal_fusion_init"
+			],
+			[
+				"Google",
+				"GoogleAnalytics"
+			],
+			[
+				"go",
+				"google"
+			],
+			[
+				"goo",
+				"google"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"Fa",
+				"FacebookAccess"
+			],
+			[
+				"js",
+				"json_encode"
+			],
+			[
+				"ref",
+				"refresh_token"
+			],
+			[
+				"ue",
+				"username"
+			],
+			[
+				"ha",
+				"handler"
+			],
+			[
+				"q",
+				"query"
+			],
+			[
+				"url",
+				"urlencode"
+			],
+			[
+				"acces",
+				"accessToken"
+			],
+			[
+				"fa",
+				"facebook"
+			],
+			[
+				"par",
+				"parsedUrl"
+			],
+			[
+				"parseu",
+				"parsedUrl"
+			],
+			[
+				"pars",
+				"parse_url"
+			],
+			[
+				"api",
+				"api_token"
+			],
+			[
+				"strto",
+				"strtolower"
+			],
+			[
+				"fb",
+				"fbAdset"
+			],
+			[
+				"campa",
+				"campaigns"
+			],
+			[
+				"coun",
+				"country"
+			],
+			[
+				"de",
+				"description"
+			],
+			[
+				"cou",
+				"countries"
+			],
+			[
+				"tar",
+				"targeting"
+			],
+			[
+				"ads",
+				"adsetTargets"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "I've got a few Qs because I'm running a forum with 5k+ members.\n\n- I'm assuming there's some kind of WIP documentation being written at the moment? Or will the docs only start being written after beta 8 is out?\n- Are they switching JS libraries? If so, to what?",
+			"settings":
+			{
+				"buffer_size": 261,
+				"line_ending": "Unix",
+				"name": "I've got a few Qs because I'm running a forum with"
+			}
+		},
+		{
+			"file": "main.js",
+			"settings":
+			{
+				"buffer_size": 649,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "dele",
+		"selected_items":
+		[
+			[
+				"dele",
+				"ANF: Delete Current File"
+			],
+			[
+				"tit",
+				"Convert Case: Title Case"
+			],
+			[
+				"ren",
+				"ANF: Rename File"
+			],
+			[
+				"del",
+				"ANF: Delete Current File"
+			],
+			[
+				"t",
+				"Convert Case: Title Case"
+			],
+			[
+				"lowe",
+				"Convert Case: Lower Case"
+			],
+			[
+				"titl",
+				"Convert Case: Title Case"
+			],
+			[
+				"Snippet: debu",
+				"Snippet: Laravel Debug"
+			],
+			[
+				"de",
+				"ANF: Delete Current File"
+			],
+			[
+				"wrap",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"",
+				"ANF: Delete Current File"
+			],
+			[
+				"htmlpr",
+				"HTMLPrettify: Set Plugin Options"
+			],
+			[
+				"pretti",
+				"HTMLPrettify"
+			],
+			[
+				"prett",
+				"HTMLPrettify: Set `node` Path"
+			],
+			[
+				"instpa",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"rena",
+				"ANF: Rename File"
+			],
+			[
+				"gitco",
+				"Git: Commit"
+			],
+			[
+				"gitst",
+				"Git: Status"
+			],
+			[
+				"gitad",
+				"Git: Add All"
+			],
+			[
+				"phpcsf",
+				"PHP CS Fixer: format this file"
+			],
+			[
+				"wr",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"godsc",
+				"PHPCompanion:Goto Definition Scope"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"sublin",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"upper",
+				"Convert Case: Upper Case"
+			],
+			[
+				"upp",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"an",
+				"ANF: New File"
+			],
+			[
+				"use",
+				"PHPCompanion:Find Use"
+			],
+			[
+				"cdnjs",
+				"Cdnjs: Import Script"
+			],
+			[
+				"cdn",
+				"Cdnjs: Import Script"
+			],
+			[
+				"gitcom",
+				"Git: Commit"
+			],
+			[
+				"gitaa",
+				"Git: Add All"
+			],
+			[
+				"gitbr",
+				"Git: New Branch"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"todoc",
+				"TodoReview: Project Files"
+			],
+			[
+				"todo",
+				"TodoReview: Project Files"
+			],
+			[
+				"bsin",
+				"Snippet: bs3-input-email-h"
+			],
+			[
+				"form",
+				"Snippet: bs3-form-horizontal"
+			],
+			[
+				"bsf",
+				"Snippet: bs3-form-horizontal"
+			],
+			[
+				"re",
+				"ANF: Rename File"
+			],
+			[
+				"cdnj",
+				"Cdnjs: Search"
+			],
+			[
+				"Snippet: met",
+				"Snippet: PHP Method"
+			],
+			[
+				"delcu",
+				"ANF: Delete Current File"
+			],
+			[
+				"jump",
+				"Preferences: LineJumper Settings – Default"
+			],
+			[
+				"anf",
+				"ANF: Rename File"
+			],
+			[
+				"anfde",
+				"ANF: Delete Current File"
+			],
+			[
+				"artmig",
+				"Laravel Artisan 5: Migrate"
+			],
+			[
+				"artca",
+				"Laravel Artisan 5: Config:Cache"
+			],
+			[
+				"artcc",
+				"Laravel Artisan 5: Cache:Clear"
+			],
+			[
+				"amka",
+				"Laravel Artisan 5: Make:Auth"
+			],
+			[
+				"amkmig",
+				"Laravel Artisan 5: Make:Migration"
+			],
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"addf",
+				"Project: Add Folder"
+			],
+			[
+				"emme wr",
+				"Emmet: Wrap With Abbreviation"
+			],
+			[
+				"bs3 cdn",
+				"Snippet: bs3-cdn"
+			],
+			[
+				"bs3 bad",
+				"Snippet: bs3-list-group-badges"
+			],
+			[
+				"bs3 ro",
+				"Snippet: bs3-table-responsive"
+			],
+			[
+				"boot",
+				"Snippet: bs3-jumbotron"
+			],
+			[
+				"Snippet: vd",
+				"Snippet: php-vardump"
+			]
+		],
+		"width": 576.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/noriods/Dropbox/www/flarum/workbench/noriods-automore"
+	],
+	"file_history":
+	[
+		"/Users/noriods/Dropbox/www/thingy/Modules/WickedlyWoo/Console/FixWebhooks.php",
+		"/Users/noriods/Dropbox/www/thingy/app/WooCommerceAccess.php",
+		"/Users/noriods/Dropbox/www/thingy/Modules/Facealytics/Jobs/SynchroniseAccounts.php",
+		"/Users/noriods/Dropbox/www/thingy/Modules/Facealytics/Console/Synchronise.php",
+		"/Users/noriods/Dropbox/www/thingy/app/Providers/SparkServiceProvider.php",
+		"/Users/noriods/Dropbox/www/thingy/app/Console/Kernel.php",
+		"/Users/noriods/Dropbox/www/thingy/vendor/aws/aws-sdk-php/src/Middleware.php",
+		"/Users/noriods/Dropbox/www/thingy/app/Providers/AppServiceProvider.php",
+		"/Users/noriods/Dropbox/www/thingy/.env",
+		"/Users/noriods/Dropbox/www/thingy/Modules/WickedlyWoo/Config/config.php",
+		"/Users/noriods/Dropbox/www/thingy/Modules/Facealytics/Http/Controllers/FacealyticsController.php",
+		"/Users/noriods/Dropbox/www/thingy/app/Connection.php",
+		"/Users/noriods/Dropbox/www/thingy/Modules/WickedlyWoo/Resources/views/form.blade.php",
+		"/Users/noriods/Dropbox/www/thingy/Modules/WickedlyWoo/Helpers/WooCommerceSubscription.php",
+		"/Users/noriods/Dropbox/www/thingy/docs/dev/Local-Development-macOS.md",
+		"/Users/noriods/Dropbox/www/thingy/Modules/WickedlyWoo/Docs/dev/Debugging.md",
+		"/Users/noriods/Dropbox/www/thingy/docs/dev/Elastic-Beanstalk-CLI.md",
+		"/Users/noriods/Dropbox/www/thingy/docs/dev/Local-Development.md",
+		"/Users/noriods/Dropbox/www/thingy/docs/dev/Local-Development-macOS",
+		"/Users/noriods/Dropbox/www/thingy/Modules/Commanage/Http/Controllers/CommanageController.php",
+		"/Users/noriods/Dropbox/www/thingy/Modules/Commanage/Resources/views/index.blade.php",
+		"/Users/noriods/Dropbox/www/thingy/Modules/WickedlyWoo/Events/Handlers/RemoveWebhooks.php",
+		"/Users/noriods/Dropbox/www/thingy/Modules/WickedlyWoo/Events/Handlers/SendPartialRefundToWickedReports.php",
+		"/Users/noriods/Dropbox/www/thingy/app/FacebookAccess.php",
+		"/Users/noriods/Dropbox/www/thingy/Modules/WickedlyWoo/Http/Controllers/WickedlyWooController.php",
+		"/Users/noriods/Dropbox/www/thingy/Modules/Facealytics/Notifications/SyncError.php",
+		"/Users/noriods/Dropbox/www/thingy/Modules/Facealytics/Resources/views/index.blade.php",
+		"/Users/noriods/Dropbox/www/thingy/resources/views/failed-jobs/index.blade.php",
+		"/Users/noriods/Dropbox/www/thingy/Modules/WickedlyWoo/Http/routes.php",
+		"/Users/noriods/Dropbox/www/thingy/Modules/WickedlyWoo/Events/GotWooCommercePaymentWebhook.php",
+		"/Users/noriods/Dropbox/www/thingy/Modules/WickedlyWoo/Providers/EventServiceProvider.php",
+		"/Users/noriods/Dropbox/www/thingy/Modules/WickedlyWoo/Helpers/WooCommerceSubscriptions.php",
+		"/Users/noriods/Dropbox/www/thingy/Modules/WickedlyWoo/Helpers/SubscriptionId.php",
+		"/Users/noriods/Dropbox/www/thingy/Modules/WickedlyWoo/Services/WooCommerceApiClient.php",
+		"/Users/noriods/Dropbox/www/thingy/vendor/automattic/woocommerce/src/WooCommerce/Client.php",
+		"/Users/noriods/Dropbox/www/thingy/Modules/WickedlyWoo/Services/WickedReportsApiClient.php",
+		"/Users/noriods/Dropbox/www/thingy/Modules/WickedlyWoo/Services/Helper.php",
+		"/Users/noriods/Dropbox/www/thingy/app/Team.php",
+		"/Users/noriods/Dropbox/www/thingy/Modules/WickedlyWoo/Events/Handlers/SendRefundToWickedReports.php",
+		"/Users/noriods/Dropbox/www/thingy/Modules/WickedlyWoo/Events/GotWooCommerceOrderWebhook.php",
+		"/Users/noriods/Dropbox/www/thingy/routes/api.php",
+		"/Users/noriods/Dropbox/www/thingy/app/Http/Controllers/CredentialController.php",
+		"/Users/noriods/Dropbox/www/thingy/vendor/nwidart/laravel-modules/src/Commands/CommandCommand.php",
+		"/Users/noriods/Dropbox/www/progo/wp-content/plugins/progo-optimize/progo-optimize.php",
+		"/Users/noriods/Dropbox/AlfredSync/Alfred.alfredpreferences/workflows/user.workflow.049C32AB-2E2A-408F-B402-289C743F1BE7/units.designandsuch.php",
+		"/Users/noriods/Dropbox/www/thingy/Modules/Commanage/Repositories/Comments.php",
+		"/Users/noriods/Dropbox/www/thingy/resources/assets/js/app.js",
+		"/Users/noriods/Dropbox/www/thingy/Modules/Commanage/Assets/js/commanage.js",
+		"/Users/noriods/Dropbox/www/thingy/Modules/Commanage/Assets/js/components/Settings.vue",
+		"/Users/noriods/Dropbox/www/thingy/Modules/Commanage/Assets/js/components/CommentsList.vue",
+		"/Users/noriods/Dropbox/www/thingy/Modules/Facealytics/Providers/FacealyticsServiceProvider.php",
+		"/Users/noriods/Dropbox/www/thingy/.ebextensions/08-worker-queues-n-scheduler.config",
+		"/Users/noriods/Dropbox/www/thingy/node_modules/node-gyp/test/test-find-accessible-sync.js",
+		"/Users/noriods/Dropbox/www/thingy/vendor/google/apiclient-services/src/Google/Service/Blogger/CommentList.php",
+		"/Users/noriods/Dropbox/www/thingy/resources/views/credentials/form.blade.php",
+		"/Users/noriods/Dropbox/www/thingy/app/User.php",
+		"/Users/noriods/Dropbox/www/thingy/Modules/Commanage/Assets/js/bootstrap.js",
+		"/Users/noriods/Dropbox/www/thingy/resources/assets/js/bootstrap.js",
+		"/Users/noriods/Dropbox/www/thingy/resources/views/vendor/spark/settings/teams/team-thingys.blade.php",
+		"/Users/noriods/Dropbox/www/thingy/config/modules.php",
+		"/Users/noriods/Dropbox/www/thingy/config/app.php",
+		"/Users/noriods/Dropbox/www/thingy/app/Listeners/ActivatePlanThingys.php",
+		"/Users/noriods/Dropbox/www/thingy/Modules/Commanage/Events/TeamMutedPost.php",
+		"/Users/noriods/Dropbox/www/thingy/database/migrations/2017_05_24_113208_create_connections_table.php",
+		"/Users/noriods/Dropbox/www/thingy/Modules/Commanage/Providers/EventServiceProvider.php",
+		"/Users/noriods/Dropbox/www/thingy/Modules/WickedlyWoo/Events/Handlers/SendOrderToWickedReports.php",
+		"/Users/noriods/Dropbox/www/thingy/Modules/Facealytics/Resources/views/form.blade.php",
+		"/Users/noriods/Dropbox/www/thingy/Modules/WickedlyWoo/Jobs/BulkImportPastOrders.php",
+		"/Users/noriods/Dropbox/www/thingy/app/Http/Controllers/TeamThingysController.php",
+		"/Users/noriods/Dropbox/www/thingy/app/Listeners/DisableModules.php",
+		"/Users/noriods/Dropbox/www/thingy/database/migrations/2017_06_20_134044_add_settings_field_to_teams.php",
+		"/Users/noriods/Dropbox/www/thingy/Modules/Commanage/Providers/CommanageServiceProvider.php",
+		"/Users/noriods/Dropbox/www/thingy/Modules/Commanage/module.json",
+		"/Users/noriods/Dropbox/www/thingy/config/services.php",
+		"/Users/noriods/Dropbox/www/thingy/config/mail.php",
+		"/Users/noriods/Dropbox/www/thingy/Modules/Commanage/Events/Handlers/SubscribePagesToApp.php",
+		"/Users/noriods/Dropbox/www/thingy/Modules/Commanage/Http/routes.php",
+		"/Users/noriods/Dropbox/www/thingy/routes/web.php",
+		"/Users/noriods/Dropbox/www/thingy/Modules/WickedlyWoo/Resources/views/index.blade.php",
+		"/Users/noriods/Dropbox/www/thingy/resources/views/credentials/index.blade.php",
+		"/Users/noriods/Dropbox/www/thingy/node_modules/fsevents/node_modules/rc/node_modules/minimist/test/default_bool.js",
+		"/Users/noriods/Dropbox/@Clients/E&D/Thingamajiggen/FB-Page-Management-Review-Instructions.mdown",
+		"/Users/noriods/Dropbox/www/thingy/Modules/Commanage/Events/ChangedSettings.php",
+		"/Users/noriods/Dropbox/www/thingy/Modules/Commanage/Http/Controllers/SettingsController.php",
+		"/Users/noriods/Dropbox/@Clients/E&D/Thingamajiggen/FB Review Instructions.mdown",
+		"/Users/noriods/Dropbox/www/thingy/app/Http/Middleware/TeamRequiresThingy.php",
+		"/Users/noriods/Dropbox/www/thingy/config/laravel-backup.php",
+		"/Users/noriods/Dropbox/www/thingy/config/monitor.php",
+		"/Users/noriods/Dropbox/www/thingy/public/css/commanage.css",
+		"/Users/noriods/Dropbox/www/thingy/Modules/Commanage/Database/Migrations/2018_02_07_114825_create_comments_table.php",
+		"/Users/noriods/Dropbox/www/thingy/Modules/Commanage/Events/CommentIsDone.php",
+		"/Users/noriods/Dropbox/www/thingy/Modules/Commanage/Events/GotFacebookWebhook.php",
+		"/Users/noriods/Dropbox/www/thingy/node_modules/caniuse-db/features-json/inline-block.json",
+		"/Users/noriods/Dropbox/www/thingy/resources/views/vendor/spark/layouts/app.blade.php",
+		"/Users/noriods/Dropbox/www/thingy/node_modules/less/lib/less/visitors/set-tree-visibility-visitor.js",
+		"/Users/noriods/Dropbox/www/thingy/node_modules/webpack-stream/node_modules/enhanced-resolve/lib/ModulesInDirectoriesPlugin.js",
+		"/Users/noriods/Dropbox/www/thingy/Modules/Commanage/Entities/Comment.php",
+		"/Users/noriods/Dropbox/www/thingy/Modules/Commanage/Events/TeamClaimedUser.php",
+		"/Users/noriods/Dropbox/www/thingy/Modules/Commanage/Events/Handlers/SaveFacebookComment.php",
+		"/Users/noriods/Dropbox/www/thingy/app/WickedReportsAccess.php",
+		"/Users/noriods/Dropbox/www/thingy/vendor/laravel/spark/resources/views/settings/profile/update-contact-information.blade.php",
+		"/Users/noriods/Dropbox/@ Sublime Text Sync/User/Snippets/Laravel Debug.sublime-snippet",
+		"/Users/noriods/Dropbox/www/thingy/Modules/Commanage/Repositories/MonitoredPages.php",
+		"/Users/noriods/Dropbox/@ Sublime Text Sync/User/Snippets/JS Console Log.sublime-snippet",
+		"/Users/noriods/Dropbox/www/thingy/Modules/Commanage/Providers/BroadcastServiceProvider.php",
+		"/Users/noriods/Dropbox/www/thingy/Modules/Commanage/Assets/css/commanage.css",
+		"/Users/noriods/Dropbox/www/thingy/Modules/WickedlyWoo/Resources/views/create.blade.php",
+		"/Users/noriods/Dropbox/www/thingy/Modules/Commanage/Events/Handlers/BroadcastFacebookComment.php",
+		"/Users/noriods/Dropbox/www/thingy/config/broadcasting.php",
+		"/Users/noriods/Dropbox/www/thingy/Modules/Commanage/Assets/js/components/Commanage.vue",
+		"/Users/noriods/Dropbox/www/thingy/vendor/laravel/spark/resources/assets/js/settings/teams.js",
+		"/Users/noriods/Dropbox/www/thingy/resources/assets/js/components/Example.vue",
+		"/Users/noriods/Dropbox/www/thingy/gulpfile.js",
+		"/Users/noriods/Dropbox/www/thingy/resources/assets/less/app.less",
+		"/Users/noriods/Dropbox/www/thingy/node_modules/vue/src/platforms/weex/compiler/modules/recycle-list/v-if.js",
+		"/Users/noriods/Dropbox/www/thingy/resources/assets/js/components/bootstrap.js",
+		"/Users/noriods/Dropbox/www/thingy/Modules/Commanage/Config/config.php",
+		"/Users/noriods/Dropbox/www/rebates/app/Site.php",
+		"/Users/noriods/Dropbox/www/thingy/Modules/Commanage/Assets/css/commanage.js",
+		"/Users/noriods/Dropbox/www/rebates/resources/views/ads/index.blade.php",
+		"/Users/noriods/Dropbox/www/rebates/app/Http/Controllers/AdController.php",
+		"/Users/noriods/Dropbox/www/rebates/app/Http/Controllers/SiteController.php",
+		"/Users/noriods/Dropbox/www/thingy/vendor/facebook/php-ads-sdk/src/FacebookAds/Object/Page.php",
+		"/Users/noriods/Dropbox/www/thingy/vendor/facebook/php-ads-sdk/src/FacebookAds/Object/Values/AdSetConfiguredStatusValues.php",
+		"/Users/noriods/Dropbox/www/thingy/app/Http/Controllers/WooCommerceStripeWebhookController.php",
+		"/Users/noriods/Dropbox/www/thingy/database/migrations/2018_02_09_131416_add_settings_column_to_users_table.php",
+		"/Users/noriods/Dropbox/www/thingy/app/Providers/BroadcastServiceProvider.php",
+		"/Users/noriods/Dropbox/www/thingy/Modules/Commanage/Http/channels.php"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 261,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								261,
+								261
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": 1,
+								"count": 47,
+								"modified": false,
+								"selection": false,
+								"status": -1,
+								"syntax": "plain text"
+							},
+							"auto_name": "I've got a few Qs because I'm running a forum with",
+							"incomplete_sync": null,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 649,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								624,
+								624
+							]
+						],
+						"settings":
+						{
+							"SL.183.region_keys":
+							[
+								"SL.jshint.Highlights.|be80b6a7e455dfdd46c0183f38e9b5171d4594fd786f3f3649e3bdc3e7cf743d|region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter|32",
+								"SL.jshint.Gutter.|region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter|dot",
+								"sublime_linter.protected_regions",
+								"SL.jshint.Highlights.|91abd869702f1e0482c838d94959f830d15620fd87689cf37c5fb4d7bfa628f1|region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter|32"
+							],
+							"WordCount":
+							{
+								"changes": -1,
+								"modified": true,
+								"selection": true,
+								"status": -1,
+								"syntax": "javascript"
+							},
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 68.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 162.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/builds/psr2.sublime-build",
+	"project": "flarum-automore.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"sendor",
+				"Modules/WickedlyWoo/Events/Handlers/SendOrderToWickedReports.php"
+			],
+			[
+				"removwe",
+				"Modules/WickedlyWoo/Events/Handlers/RemoveWebhooks.php"
+			],
+			[
+				"sendpa",
+				"Modules/WickedlyWoo/Events/Handlers/SendPartialRefundToWickedReports.php"
+			],
+			[
+				"fixho",
+				"Modules/WickedlyWoo/Console/FixWebhooks.php"
+			],
+			[
+				"woco",
+				"app/WooCommerceAccess.php"
+			],
+			[
+				"bulkim",
+				"Modules/WickedlyWoo/Jobs/BulkImportPastOrders.php"
+			],
+			[
+				"sendpar",
+				"Modules/WickedlyWoo/Events/Handlers/SendPartialRefundToWickedReports.php"
+			],
+			[
+				"fixwe",
+				"Modules/WickedlyWoo/Console/FixWebhooks.php"
+			],
+			[
+				"misconf",
+				"Modules/WickedlyWoo/Notifications/SiteMisconfigured.php"
+			],
+			[
+				"facelyindbl",
+				"Modules/Facealytics/Resources/views/index.blade.php"
+			],
+			[
+				"wiwoindbl",
+				"Modules/WickedlyWoo/Resources/views/index.blade.php"
+			],
+			[
+				"sendwick",
+				"Modules/WickedlyWoo/Events/Handlers/SendPartialRefundToWickedReports.php"
+			],
+			[
+				"",
+				"Modules/WickedlyWoo/Events/Handlers/SendOrderToWickedReports.php"
+			],
+			[
+				"facelysyncacc",
+				"Modules/Facealytics/Jobs/SynchroniseAccounts.php"
+			],
+			[
+				"facelsynch",
+				"Modules/Facealytics/Console/Synchronise.php"
+			],
+			[
+				"facelsync",
+				"Modules/Facealytics/Console/Synchronise.php"
+			],
+			[
+				"sitemisc",
+				"Modules/WickedlyWoo/Notifications/SiteMisconfigured.php"
+			],
+			[
+				"syncer",
+				"Modules/Facealytics/Notifications/SyncError.php"
+			],
+			[
+				"sendtowick",
+				"Modules/WickedlyWoo/Events/Handlers/SendOrderToWickedReports.php"
+			],
+			[
+				"woocac",
+				"app/WooCommerceAccess.php"
+			],
+			[
+				"spakser",
+				"app/Providers/SparkServiceProvider.php"
+			],
+			[
+				"isd",
+				"app/Http/Middleware/IsDev.php"
+			],
+			[
+				"isde",
+				"app/Http/Middleware/IsDev.php"
+			],
+			[
+				"wiwrou",
+				"Modules/WickedlyWoo/Http/routes.php"
+			],
+			[
+				"apphtker",
+				"app/Http/Kernel.php"
+			],
+			[
+				"kern",
+				"app/Console/Kernel.php"
+			],
+			[
+				"middlewa",
+				"vendor/aws/aws-sdk-php/src/Middleware.php"
+			],
+			[
+				"appserpr",
+				"app/Providers/AppServiceProvider.php"
+			],
+			[
+				"isdev",
+				"app/Http/Middleware/IsDev.php"
+			],
+			[
+				"spaser",
+				"app/Providers/SparkServiceProvider.php"
+			],
+			[
+				"user",
+				"app/User.php"
+			],
+			[
+				"wiwcon",
+				"Modules/WickedlyWoo/Http/Controllers/WickedlyWooController.php"
+			],
+			[
+				"wiwiinbl",
+				"Modules/WickedlyWoo/Resources/views/index.blade.php"
+			],
+			[
+				"wiworou",
+				"Modules/WickedlyWoo/Http/routes.php"
+			],
+			[
+				"spars",
+				"app/Providers/SparkServiceProvider.php"
+			],
+			[
+				".env",
+				".env"
+			],
+			[
+				"wiwoconf",
+				"Modules/WickedlyWoo/Config/config.php"
+			],
+			[
+				"wiwoevsp",
+				"Modules/WickedlyWoo/Providers/EventServiceProvider.php"
+			],
+			[
+				"wiwconf",
+				"Modules/WickedlyWoo/Config/config.php"
+			],
+			[
+				"wiwesp",
+				"Modules/WickedlyWoo/Providers/EventServiceProvider.php"
+			],
+			[
+				"wiwocon",
+				"Modules/WickedlyWoo/Http/Controllers/WickedlyWooController.php"
+			],
+			[
+				"faceacc",
+				"app/FacebookAccess.php"
+			],
+			[
+				"conn",
+				"app/Connection.php"
+			],
+			[
+				"flycont",
+				"Modules/Facealytics/Http/Controllers/FacealyticsController.php"
+			],
+			[
+				"face",
+				"app/FacebookAccess.php"
+			],
+			[
+				"wiwindbl",
+				"Modules/WickedlyWoo/Resources/views/index.blade.php"
+			],
+			[
+				"wiwformbl",
+				"Modules/WickedlyWoo/Resources/views/form.blade.php"
+			],
+			[
+				"woosub",
+				"Modules/WickedlyWoo/Helpers/WooCommerceSubscription.php"
+			],
+			[
+				"woocommsub",
+				"Modules/WickedlyWoo/Helpers/WooCommerceSubscription.php"
+			],
+			[
+				"wiwoeidtbl",
+				"Modules/WickedlyWoo/Resources/views/edit.blade.php"
+			],
+			[
+				"docs/",
+				"docs/dev/Local-Development-macOS.md"
+			],
+			[
+				"devmacos",
+				"docs/dev/Local-Development-macOS.md"
+			],
+			[
+				"docdev",
+				"docs/dev/Local-Development.md"
+			],
+			[
+				"commacon",
+				"Modules/Commanage/Http/Controllers/CommanageController.php"
+			],
+			[
+				"commcon",
+				"Modules/Commanage/Http/Controllers/CommanageController.php"
+			],
+			[
+				"commindbl",
+				"Modules/Commanage/Resources/views/index.blade.php"
+			],
+			[
+				"facacc",
+				"app/FacebookAccess.php"
+			],
+			[
+				"synac",
+				"Modules/Facealytics/Jobs/SynchroniseAccounts.php"
+			],
+			[
+				"bulim",
+				"Modules/WickedlyWoo/Jobs/BulkImportPastOrders.php"
+			],
+			[
+				"faeacc",
+				"app/FacebookAccess.php"
+			],
+			[
+				"credcon",
+				"app/Http/Controllers/CredentialController.php"
+			],
+			[
+				"faformbl",
+				"Modules/Facealytics/Resources/views/form.blade.php"
+			],
+			[
+				"facon",
+				"Modules/Facealytics/Http/Controllers/FacealyticsController.php"
+			],
+			[
+				"facontr",
+				"Modules/Facealytics/Http/Controllers/FacealyticsController.php"
+			],
+			[
+				"wiwooformbl",
+				"Modules/WickedlyWoo/Resources/views/form.blade.php"
+			],
+			[
+				"facformb",
+				"Modules/Facealytics/Resources/views/form.blade.php"
+			],
+			[
+				"appcredcon",
+				"app/Http/Controllers/CredentialController.php"
+			],
+			[
+				"synerr",
+				"Modules/Facealytics/Notifications/SyncError.php"
+			],
+			[
+				"consosync",
+				"Modules/Facealytics/Console/Synchronise.php"
+			],
+			[
+				"facont",
+				"Modules/Facealytics/Http/Controllers/FacealyticsController.php"
+			],
+			[
+				"faceindbl",
+				"Modules/Facealytics/Resources/views/index.blade.php"
+			],
+			[
+				"fainbl",
+				"resources/views/failed-jobs/index.blade.php"
+			],
+			[
+				"synacc",
+				"Modules/Facealytics/Jobs/SynchroniseAccounts.php"
+			],
+			[
+				"facsyncacc",
+				"Modules/Facealytics/Jobs/SynchroniseAccounts.php"
+			],
+			[
+				"wickconf",
+				"Modules/WickedlyWoo/Config/config.php"
+			],
+			[
+				"remowe",
+				"Modules/WickedlyWoo/Events/Handlers/RemoveWebhooks.php"
+			],
+			[
+				"wiwosubsc",
+				"Modules/WickedlyWoo/Helpers/WooCommerceSubscription.php"
+			],
+			[
+				"wiformbl",
+				"Modules/WickedlyWoo/Resources/views/form.blade.php"
+			],
+			[
+				"wiwoosub",
+				"Modules/WickedlyWoo/Helpers/WooCommerceSubscription.php"
+			],
+			[
+				"wiwsubs",
+				"Modules/WickedlyWoo/Helpers/WooCommerceSubscription.php"
+			],
+			[
+				"wiwosub",
+				"Modules/WickedlyWoo/Helpers/WooCommerceSubscription.php"
+			],
+			[
+				"woosu",
+				"Modules/WickedlyWoo/Helpers/WooCommerceSubscription.php"
+			],
+			[
+				"gotpaym",
+				"Modules/WickedlyWoo/Events/GotWooCommercePaymentWebhook.php"
+			],
+			[
+				"fixweb",
+				"Modules/WickedlyWoo/Console/FixWebhooks.php"
+			],
+			[
+				"wiwoorou",
+				"Modules/WickedlyWoo/Http/routes.php"
+			],
+			[
+				"wievsepr",
+				"Modules/WickedlyWoo/Providers/EventServiceProvider.php"
+			],
+			[
+				"auttclie",
+				"vendor/automattic/woocommerce/src/WooCommerce/Client.php"
+			],
+			[
+				"wicapicl",
+				"Modules/WickedlyWoo/Services/WickedReportsApiClient.php"
+			],
+			[
+				"wickapicl",
+				"Modules/WickedlyWoo/Services/WickedReportsApiClient.php"
+			],
+			[
+				"wickreapi",
+				"Modules/WickedlyWoo/Services/WickedReportsApiClient.php"
+			],
+			[
+				"wicon",
+				"Modules/WickedlyWoo/Http/Controllers/WickedlyWooController.php"
+			],
+			[
+				"team",
+				"app/Team.php"
+			],
+			[
+				"sendref",
+				"Modules/WickedlyWoo/Events/Handlers/SendRefundToWickedReports.php"
+			],
+			[
+				"gotwooor",
+				"Modules/WickedlyWoo/Events/GotWooCommerceOrderWebhook.php"
+			],
+			[
+				"wiwooevser",
+				"Modules/WickedlyWoo/Providers/EventServiceProvider.php"
+			],
+			[
+				"wickwcon",
+				"Modules/WickedlyWoo/Http/Controllers/WickedlyWooController.php"
+			],
+			[
+				"wickrou",
+				"Modules/WickedlyWoo/Http/routes.php"
+			],
+			[
+				"rouapi",
+				"routes/api.php"
+			],
+			[
+				"faceboacc",
+				"app/FacebookAccess.php"
+			],
+			[
+				"woocacc",
+				"app/WooCommerceAccess.php"
+			],
+			[
+				"sendordto",
+				"Modules/WickedlyWoo/Events/Handlers/SendOrderToWickedReports.php"
+			],
+			[
+				"facecon",
+				"Modules/Facealytics/Http/Controllers/FacealyticsController.php"
+			],
+			[
+				"facseprov",
+				"Modules/Facealytics/Providers/FacealyticsServiceProvider.php"
+			],
+			[
+				".ebcron",
+				".ebextensions/08-worker-queues-n-scheduler.config"
+			],
+			[
+				"facesync",
+				"Modules/Facealytics/Console/Synchronise.php"
+			],
+			[
+				"facsynac",
+				"Modules/Facealytics/Jobs/SynchroniseAccounts.php"
+			],
+			[
+				"facesyn",
+				"Modules/Facealytics/Console/Synchronise.php"
+			],
+			[
+				"commlisvu",
+				"~/Dropbox/www/thingy/Modules/Commanage/Assets/js/components/CommentsList.vue"
+			],
+			[
+				"commli",
+				"vendor/google/apiclient-services/src/Google/Service/Blogger/CommentList.php"
+			],
+			[
+				"formbl",
+				"resources/views/credentials/form.blade.php"
+			],
+			[
+				"user.p",
+				"app/User.php"
+			],
+			[
+				"team.",
+				"app/Team.php"
+			],
+			[
+				"settvu",
+				"Modules/Commanage/Assets/js/components/Settings.vue"
+			],
+			[
+				"commlis",
+				"Modules/Commanage/Assets/js/components/CommentsList.vue"
+			],
+			[
+				"commlisv",
+				"Modules/Commanage/Assets/js/components/CommentsList.vue"
+			],
+			[
+				"commajs",
+				"Modules/Commanage/Assets/js/commanage.js"
+			],
+			[
+				"appjs",
+				"resources/assets/js/app.js"
+			],
+			[
+				"commabot",
+				"Modules/Commanage/Assets/js/bootstrap.js"
+			],
+			[
+				"boot",
+				"resources/assets/js/bootstrap.js"
+			],
+			[
+				"comainbl",
+				"Modules/Commanage/Resources/views/index.blade.php"
+			],
+			[
+				"settvue",
+				"Modules/Commanage/Assets/js/components/Settings.vue"
+			],
+			[
+				"comlis",
+				"Modules/Commanage/Assets/js/components/CommentsList.vue"
+			],
+			[
+				"commaboot",
+				"Modules/Commanage/Assets/js/bootstrap.js"
+			],
+			[
+				"commainbl",
+				"Modules/Commanage/Resources/views/index.blade.php"
+			],
+			[
+				"repocomm",
+				"Modules/Commanage/Repositories/Comments.php"
+			],
+			[
+				"reposcomm",
+				"Modules/Commanage/Repositories/Comments.php"
+			],
+			[
+				"boots",
+				"resources/assets/js/bootstrap.js"
+			],
+			[
+				"teamthibl",
+				"resources/views/vendor/spark/settings/teams/team-thingys.blade.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Dropbox/www/48hour.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "targeting",
+		"selected_items":
+		[
+			[
+				"targeting",
+				"targeting"
+			],
+			[
+				"extractsource",
+				"extractSource"
+			],
+			[
+				"extsourc",
+				"extractSource"
+			],
+			[
+				"timer\t",
+				"TimerController"
+			]
+		],
+		"width": 1140.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": false,
+	"side_bar_visible": false,
+	"side_bar_width": 223.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

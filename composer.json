@@ -1,0 +1,37 @@
+{
+  "name": "noriods/auto-more",
+  "description": "Automatically clicks the 'load more' button when it comes into view.",
+  "keywords": [
+    "flarum"
+  ],
+  "type": "flarum-extension",
+  "license": "GPL-2.0",
+  "require": {
+    "flarum/core": "^0.1.0-beta-7"
+  },
+  "authors": [
+    {
+      "name": "NorioDS",
+      "email": "",
+      "role": "Developer"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "NorioDS\\AutoMore\\": "src/"
+    }
+  },
+  "extra": {
+    "flarum-extension": {
+      "title": "Auto More",
+      "icon": {
+        "name": "",
+        "backgroundColor": "",
+        "color": ""
+      }
+    },
+    "flagrow": {
+      "discuss": ""
+    }
+  }
+}
