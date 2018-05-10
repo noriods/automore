@@ -2,7 +2,7 @@
 
 ---
 
-![License](https://img.shields.io/badge/license-GPL-2.0-blue.svg) [![Latest Stable Version](https://img.shields.io/packagist/v/noriods/auto-more.svg)](https://packagist.org/packages/noriods/auto-more)
+[![License: GPL v2](https://img.shields.io/badge/License-GPL%20v2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html) [![Latest Stable Version](https://img.shields.io/packagist/v/noriods/auto-more.svg)](https://packagist.org/packages/noriods/auto-more)
 
 A [Flarum](http://flarum.org) extension. Automatically clicks the 'load more' button when it comes into view.
 
