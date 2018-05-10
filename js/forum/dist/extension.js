@@ -22,7 +22,7 @@ System.register('noriods/auto-more/main', ['flarum/app'], function (_export, _co
                 };
 
                 $(window).on('resize scroll', function () {
-                    $('.DiscussionList-loadMore button').each(function () {
+                    $('.DiscussionList-loadMore button, .PostsUserPage-loadMore button').each(function () {
                         if ($(this).isInViewport()) {
                             $(this).click();
                         }
