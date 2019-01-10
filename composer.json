@@ -2,12 +2,15 @@
   "name": "noriods/auto-more",
   "description": "Automatically clicks the 'load more' button when it comes into view.",
   "keywords": [
-    "flarum"
+    "flarum",
+    "automatic",
+    "load",
+    "more"
   ],
   "type": "flarum-extension",
   "license": "GPL-2.0",
   "require": {
-    "flarum/core": "^0.1.0-beta-7"
+    "flarum/core": "^0.1.0-beta-8"
   },
   "authors": [
     {
@@ -16,22 +19,17 @@
       "role": "Developer"
     }
   ],
-  "autoload": {
-    "psr-4": {
-      "NorioDS\\AutoMore\\": "src/"
-    }
-  },
   "extra": {
     "flarum-extension": {
       "title": "Auto More",
       "icon": {
-        "name": "",
-        "backgroundColor": "",
-        "color": ""
+        "name": "fas fa-angle-double-down",
+        "backgroundColor": "#94dcff",
+        "color": "#fff"
       }
     },
     "flagrow": {
-      "discuss": ""
+      "discuss": "https://discuss.flarum.org/d/11961-auto-more"
     }
   }
 }
