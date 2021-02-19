@@ -12,7 +12,11 @@ app.initializers.add('noriods/auto-more', () => {
   };
 
   $(window).on('resize scroll', function () {
-    $('.DiscussionList-loadMore button, .PostsUserPage-loadMore button').each(function () {
+    $([
+      '.DiscussionList-loadMore button',
+      '.PostsUserPage-loadMore button',
+      '.UserDirectoryList-loadMore button'
+    ].join(',')).each(function () {
       if ($(this).isInViewport()) {
         $(this).click();
       }
