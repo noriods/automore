@@ -29,5 +29,5 @@ php flarum cache:clear
 
 ### Credits
 
-- [Nearata](https://github.com/Nearata) for making it work across pretty much *all* "Load More" buttons.
-- [Ralkage](https://github.com/Ralkage) for beta-8 compatibility and some nice cleaning up.
+- [Nearata](https://github.com/Nearata) made it work across pretty much *all* "Load More" buttons.
+- [Ralkage](https://github.com/Ralkage) made it beta-8 compatibile and did some nice cleaning up.
