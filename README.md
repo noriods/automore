@@ -26,3 +26,8 @@ php flarum cache:clear
 ### Links
 
 - [Packagist](https://packagist.org/packages/noriods/auto-more)
+
+### Credits
+
+- [Nearata](https://github.com/Nearata) for making it work across pretty much *all* "Load More" buttons.
+- [Ralkage](https://github.com/Ralkage) for beta-8 compatibility and some nice cleaning up.
