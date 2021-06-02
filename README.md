@@ -10,7 +10,7 @@ My first Flarum extension. Be gentle.
 
 ### Installation
 
-Use [Bazaar](https://discuss.flarum.org/d/5151-flagrow-bazaar-the-extension-marketplace) or install manually with composer:
+Install manually with composer:
 
 ```sh
 composer require noriods/auto-more
@@ -31,3 +31,4 @@ php flarum cache:clear
 
 - [Nearata](https://github.com/Nearata) made it work across pretty much *all* "Load More" buttons.
 - [Ralkage](https://github.com/Ralkage) made it beta-8 compatibile and did some nice cleaning up.
+- [Katos](https://github.com/Katosdev) made it Flarum 1.0.0 compatibile and updated JS files, also fixed vulnerabilty issues with JS.
