@@ -10,12 +10,17 @@
   "type": "flarum-extension",
   "license": "GPL-2.0",
   "require": {
-    "flarum/core": "^0.1.0-beta-15"
+    "flarum/core": "^1.0.0"
   },
   "authors": [
     {
       "name": "NorioDS",
       "email": "flarum@guitartalk.co.za",
+      "role": "Developer"
+    },
+    {
+      "name": "Katos",
+      "email": "katos@flarum.org",
       "role": "Developer"
     }
   ],
